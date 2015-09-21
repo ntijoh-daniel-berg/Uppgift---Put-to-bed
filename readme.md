@@ -26,7 +26,7 @@ Den här uppgiften går ut på skriver en funktion som nattar barn
 
 Världen har tagits över av robotar. De behöver din hjälp med att skapa en funktion de kan använda för att natta all världens barn.
 
-Skapa en funktion `put_to_bed` som tar ett namn som argument och returnerar "*Nighty Nighty, <namnet>!*"
+Skapa en funktion `put_to_bed` som tar ett namn som argument och returnerar "*Nighty Nighty, {namnet}!*"
 
 ### Exempel ###
 
