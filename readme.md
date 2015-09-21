@@ -1,4 +1,4 @@
-# Funktioner i Ruby
+# Funktioner
 
 Den här uppgiften går ut på skriver en funktion som nattar barn
 
