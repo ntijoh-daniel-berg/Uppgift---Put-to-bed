@@ -63,7 +63,7 @@ Skapa funktionerna i `lib/put_to_bed.rb`
 
 Testerna finns i `spec/put_to_bed_spec.rb`
 
-Kör `ruby spec/put_to_bed_spec.rb` för att köra testerna för den specifika funktionen.
+Kör `ruby spec/put_to_bed_test.rb` för att köra testerna för den specifika funktionen.
 
 #### Python ####
 
